@@ -1,15 +1,14 @@
 # Tiny Tapeout project information (Wokwi project)
-project: "Byen"
-  wokwi_id:     464151498884529153       # Set this to the ID of your Wokwi project (the number from the project's URL)
-  title:        "ByenTest"      # Project title
-  author:       "byen"      # Your name
-  discord:      "now"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  "now"      # One line description of what your project does
-  language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
-  clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
-
-  # How many tiles your design occupies? A single tile is about 167x108 uM.
-  tiles: "1x1"          # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
+# Tiny Tapeout project information (Wokwi project)
+project: 
+  wokwi_id:     464151498884529153       # Set this to the ID of your Wokwi project
+  title:        "ByenTest"               # Project title
+  author:       "byen"                   # Your name
+  discord:      "now"                    # Your discord username
+  description:  "now"                    # One line description
+  language:     "Wokwi"                  # Other examples: SystemVerilog, Amaranth, VHDL, etc
+  clock_hz:     0                        # Clock frequency in Hz
+  tiles:        "1x1"                    # Valid values: 1x1, 1x2, 2x2, 3x2, 4x2, 6x2 or 8x2
 
 
 # The pinout of your project. Leave unused pins blank. DO NOT delete or add any pins.
