@@ -2,7 +2,7 @@
 
 # Tiny Tapeout Wokwi Project Template Byen TEST
 
-- [Read the documentation for project](docs/info.md)
+- [Read the documentation for project](docs/info.md) BYEN TEST
 
 ## What is Tiny Tapeout?
 
